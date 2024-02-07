@@ -1,8 +1,8 @@
 # Oaksochinno
 
-Oaksochinno is a game created in 48 hours. I know... It's fucking ass.
+Oaksochinno is a game created in 48 hours.
 
-## Background
+### Background
 You just need to get coffee beans lmao
 
 ### Running from source
@@ -19,4 +19,4 @@ Same as windows.
 Ensure ``main.py`` is in the same directory as ``./data`` and execute  ``python main.py``.
 
 ## Contributing
-You can use the code and do whatever with it. i literally do not give a fuck.
+You're free to edit on this project.
